@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="000000005.img">
+    <imgdir name="info">
+        <string name="bgm" value="Bgm00/GoPicnic"/>
+        <string name="mapMark" value="MushCatle"/>
+        <int name="cloud" value="0"/>
+        <int name="version" value="10"/>
+        <int name="town" value="1"/>
+        <int name="returnMap" value="999999999"/>
+        <float name="mobRate" value="1.5"/>
+        <int name="hideMinimap" value="0"/>
+        <int name="fieldLimit" value="0"/>
+        <int name="forcedReturn" value="999999999"/>
+        <int name="VRTop" value="-200"/>
+        <int name="VRLeft" value="-200"/>
+        <int name="VRBottom" value="200"/>
+        <int name="VRRight" value="200"/>
+    </imgdir>
+    <imgdir name="back">
+        <imgdir name="0">
+            <string name="bS" value="grassySoil"/>
+            <int name="ry" value="0"/>
+            <int name="cx" value="0"/>
+            <int name="x" value="0"/>
+            <int name="type" value="3"/>
+            <int name="a" value="255"/>
+            <int name="rx" value="0"/>
+            <int name="no" value="0"/>
+            <int name="f" value="0"/>
+            <int name="ani" value="0"/>
+            <int name="y" value="0"/>
+            <int name="front" value="0"/>
+            <int name="cy" value="0"/>
+        </imgdir>
+        <imgdir name="1">
+            <string name="bS" value="grassySoil"/>
+            <int name="ry" value="0"/>
+            <int name="cx" value="0"/>
+            <int name="x" value="112"/>
+            <int name="type" value="0"/>
+            <int name="a" value="255"/>
+            <int name="rx" value="0"/>
+            <int name="no" value="1"/>
+            <int name="f" value="0"/>
+            <int name="ani" value="0"/>
+            <int name="y" value="10"/>
+            <int name="front" value="0"/>
+            <int name="cy" value="0"/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="bS" value="grassySoil"/>
+            <int name="ry" value="0"/>
+            <int name="cx" value="0"/>
+            <int name="x" value="324"/>
+            <int name="type" value="0"/>
+            <int name="a" value="255"/>
+            <int name="rx" value="0"/>
+            <int name="no" value="2"/>
+            <int name="f" value="0"/>
+            <int name="ani" value="0"/>
+            <int name="y" value="163"/>
+            <int name="front" value="0"/>
+            <int name="cy" value="0"/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="bS" value="grassySoil"/>
+            <int name="ry" value="0"/>
+            <int name="cx" value="0"/>
+            <int name="x" value="203"/>
+            <int name="type" value="0"/>
+            <int name="a" value="255"/>
+            <int name="rx" value="0"/>
+            <int name="no" value="3"/>
+            <int name="f" value="0"/>
+            <int name="ani" value="0"/>
+            <int name="y" value="-141"/>
+            <int name="front" value="0"/>
+            <int name="cy" value="0"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="miniMap">
+        <canvas name="canvas" width="31" height="31" basedata="iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAYAAAAfrhY5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE2SURBVFhHYxgFo2AUjIJRMApGwSgYBaNgFIwCcgAjlEYH2MRJUQsC2MU7ljhsn7zW88r01W73ula53p+wxvX+xI1e1/uWON2etdn3Uu8yp1f96zwv969xe9W7xu1y3zKXG0C1d3tWud3tX+32YMIGrzt9S51uTt/ie7l/qePL/rVeV/pWu7zuX+9xoX+Z0805QLM6lzk9nLrB8x5Q7CHUWgjIq4s+X1zn/zUi3eFrRlXg18KmyK9NU/O/Z1X6fk0vdvkaX+j3NbnI/WvDlJyv5Z2p3/Orvb9GZth9zawK+VrYGPG1fkrWt5yaoG+5FR5fo3M8vqaWen2t7E35Wjcx93t2ucfX2Bzbr6nloV9zqgO+NkzN/gq1FgJCGUKZoUw4wCYGAtjE6xnqmYAURrDiMmOkAgYGALsog0LfVErIAAAAAElFTkSuQmCC">
+        </canvas>
+        <int name="centerX" value="250"/>
+        <int name="centerY" value="250"/>
+        <int name="width" value="500"/>
+        <int name="height" value="500"/>
+        <int name="mag" value="4"/>
+    </imgdir>
+    <imgdir name="ladderRope">
+    </imgdir>
+    <imgdir name="foothold">
+        <imgdir name="0">
+            <imgdir name="0">
+                <imgdir name="1">
+                    <int name="x1" value="-199"/>
+                    <int name="x2" value="-109"/>
+                    <int name="y1" value="175"/>
+                    <int name="y2" value="175"/>
+                    <int name="prev" value="0"/>
+                    <int name="next" value="2"/>
+                </imgdir>
+                <imgdir name="2">
+                    <int name="x1" value="-109"/>
+                    <int name="x2" value="-19"/>
+                    <int name="y1" value="175"/>
+                    <int name="y2" value="175"/>
+                    <int name="prev" value="1"/>
+                    <int name="next" value="3"/>
+                </imgdir>
+                <imgdir name="3">
+                    <int name="x1" value="-19"/>
+                    <int name="x2" value="71"/>
+                    <int name="y1" value="175"/>
+                    <int name="y2" value="175"/>
+                    <int name="prev" value="2"/>
+                    <int name="next" value="4"/>
+                </imgdir>
+                <imgdir name="4">
+                    <int name="x1" value="71"/>
+                    <int name="x2" value="161"/>
+                    <int name="y1" value="175"/>
+                    <int name="y2" value="175"/>
+                    <int name="prev" value="3"/>
+                    <int name="next" value="5"/>
+                </imgdir>
+                <imgdir name="5">
+                    <int name="x1" value="161"/>
+                    <int name="x2" value="251"/>
+                    <int name="y1" value="175"/>
+                    <int name="y2" value="175"/>
+                    <int name="prev" value="4"/>
+                    <int name="next" value="0"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="0">
+        <imgdir name="info">
+            <string name="tS" value="woodMarble"/>
+        </imgdir>
+        <imgdir name="obj">
+        </imgdir>
+        <imgdir name="tile">
+            <imgdir name="0">
+                <int name="no" value="1"/>
+                <string name="u" value="enH0"/>
+                <int name="x" value="-199"/>
+                <int name="y" value="201"/>
+                <int name="zM" value="0"/>
+            </imgdir>
+            <imgdir name="1">
+                <int name="no" value="1"/>
+                <string name="u" value="enH0"/>
+                <int name="x" value="-109"/>
+                <int name="y" value="201"/>
+                <int name="zM" value="0"/>
+            </imgdir>
+            <imgdir name="2">
+                <int name="no" value="1"/>
+                <string name="u" value="enH0"/>
+                <int name="x" value="-19"/>
+                <int name="y" value="201"/>
+                <int name="zM" value="0"/>
+            </imgdir>
+            <imgdir name="3">
+                <int name="no" value="1"/>
+                <string name="u" value="enH0"/>
+                <int name="x" value="71"/>
+                <int name="y" value="201"/>
+                <int name="zM" value="0"/>
+            </imgdir>
+            <imgdir name="4">
+                <int name="no" value="1"/>
+                <string name="u" value="enH0"/>
+                <int name="x" value="161"/>
+                <int name="y" value="201"/>
+                <int name="zM" value="0"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="1">
+        <imgdir name="info">
+        </imgdir>
+        <imgdir name="obj">
+        </imgdir>
+        <imgdir name="tile">
+        </imgdir>
+    </imgdir>
+    <imgdir name="2">
+        <imgdir name="info">
+        </imgdir>
+        <imgdir name="obj">
+        </imgdir>
+        <imgdir name="tile">
+        </imgdir>
+    </imgdir>
+    <imgdir name="3">
+        <imgdir name="info">
+        </imgdir>
+        <imgdir name="obj">
+        </imgdir>
+        <imgdir name="tile">
+        </imgdir>
+    </imgdir>
+    <imgdir name="4">
+        <imgdir name="info">
+        </imgdir>
+        <imgdir name="obj">
+        </imgdir>
+        <imgdir name="tile">
+        </imgdir>
+    </imgdir>
+    <imgdir name="5">
+        <imgdir name="info">
+        </imgdir>
+        <imgdir name="obj">
+        </imgdir>
+        <imgdir name="tile">
+        </imgdir>
+    </imgdir>
+    <imgdir name="6">
+        <imgdir name="info">
+        </imgdir>
+        <imgdir name="obj">
+        </imgdir>
+        <imgdir name="tile">
+        </imgdir>
+    </imgdir>
+    <imgdir name="7">
+        <imgdir name="info">
+        </imgdir>
+        <imgdir name="obj">
+        </imgdir>
+        <imgdir name="tile">
+        </imgdir>
+    </imgdir>
+    <imgdir name="portal">
+        <imgdir name="0">
+            <string name="pn" value="sp"/>
+            <int name="pt" value="2"/>
+            <int name="tm" value="910000000"/>
+            <string name="tn" value="sp"/>
+            <int name="x" value="-152"/>
+            <int name="y" value="172"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="seat">
+    </imgdir>
+    <imgdir name="life">
+    </imgdir>
+    <imgdir name="reactor">
+    </imgdir>
+</imgdir>
